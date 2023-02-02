@@ -1,4 +1,4 @@
-# Machine Learning II (UMONS)
+# Machine Learning II (UMONS, 2022-2023)
 
 This is a repository to organize the teaching material for [Machine Learning II](http://applications.umons.ac.be/web/fr/pde/2022-2023/aa/S-INFO-075.htm), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com).
 
