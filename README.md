@@ -5,3 +5,14 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Course links
 
 - [Moodle](https://moodle.umons.ac.be/course/view.php?id=2786s)
+
+# Content
+
+- Week 1 (Feb. 6-10). 
+  - Lecture 1 (Feb. 8): Linear models (the perceptron learning model)
+  - Lecture 2 (Feb. 10): Linear models (the perceptron learning model continued, linear regression, logistic regression)
+
+- Week 2 (Feb. 13-17). 
+  - Lecture 3 (Feb. 15): 
+  - Lab 1 (Feb. 16): The perceptron learning model
+  - Lecture 4 (Feb. 17): 
