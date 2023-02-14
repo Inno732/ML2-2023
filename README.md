@@ -35,4 +35,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 5 (Mar. 16):
   - Lab 6 (Mar. 17):
 
+- Week 6 (Mar. 20-24).
+  - Lecture 8 (Mar. 20):
+  - Lab 7 (Mar. 23):
+  - Lecture 9 (Mar. 24):
 
+- Week 7 (Mar. 27-31).
+  - Lab 8 (Mar. 27):
+  - Lecture 10 (Mar. 30):
+  - Lab 9 (Mar. 31):
