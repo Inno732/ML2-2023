@@ -60,6 +60,6 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 13 (May 5):
 
 - Week 13 (May 8-12).
-  - Lecture 13 (May 8):
+  - Lecture 14 (May 8):
   - Lab 13 (May 11):
  
