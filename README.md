@@ -46,3 +46,20 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 9 (Mar. 31):
   
 **Spring Break**
+
+- Week 10 (Apr. 17-21).
+  - Lab 10 (Apr. 20):
+
+- Week 11 (Apr. 24-28).
+  - Lecture 11 (Apr. 24):
+  - Lab 11 (Apr. 27):
+  - Lecture 12 (Apr. 28):
+
+- Week 12 (May 1-5).
+  - Lab 12 (May 4):
+  - Lecture 13 (May 5):
+
+- Week 13 (May 8-12).
+  - Lecture 13 (May 8):
+  - Lab 13 (May 11):
+ 
