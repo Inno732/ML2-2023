@@ -28,15 +28,15 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 5 (Mar. 6 - Mar. 10).
   - Lecture 5 (Mar. 6): Optimization for machine learning II
   - Lecture 6 (Mar. 8): Optimization for machine learning III
-  - Lab 4 (Mar. 10): Linear classification
+  - Lab 4 (Mar. 10): Linear classification I
 
 - Week 6 (Mar. 13-17).
-  - Lecture 7 (Mar. 13):
-  - Lab 5 (Mar. 16):
-  - Lab 6 (Mar. 17):
+  - Lecture 7 (Mar. 13): Neural networks I
+  - Lab 5 (Mar. 16): Linear classification II
+  - Lab 6 (Mar. 17): Linear classification III
 
 - Week 6 (Mar. 20-24).
-  - Lecture 8 (Mar. 20):
+  - Lecture 8 (Mar. 20): Neural networks II
   - Lab 7 (Mar. 23):
   - Lecture 9 (Mar. 24):
 
