@@ -19,6 +19,20 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 3 (Feb. 20-24).
    - Lecture 5 (Feb. ?): Discussion on PPA book (Chapters 1 and 2)
-   - Lab 2 (Feb. 23): Linear regression
+   - Lab 2 (Feb. 23): Linear regression I
   
-  
+- Week 4 (Feb. 27 - Mar. 03).
+  - Lab 3 (Feb. 2?): Linear regression II
+  - Lecture 4 (Feb. 23): Optimization for machine learning I
+ 
+- Week 5 (Mar. 6 - Mar. 10).
+  - Lecture 5 (Mar. 6): Optimization for machine learning II
+  - Lecture 6 (Mar. 8): Optimization for machine learning III
+  - Lab 4 (Mar. 10): Linear classification
+
+- Week 6 (Mar. 13-17).
+  - Lecture 7 (Mar. 13):
+  - Lab 5 (Mar. 16):
+  - Lab 6 (Mar. 17):
+
+
