@@ -18,7 +18,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 4 (Feb. 17): Read Chapters 1 and 2 in [Patterns, predictions and actions (PPA): a story about machine learning](https://mlstory.org/)
 
 - Week 3 (Feb. 20-24).
-   - Lecture 5 (Feb. ?): Discussion on PPA book (Chapters 1 and 2)
+   - Lecture 5 (Feb. 22): Discussion on PPA book (Chapters 1 and 2)
    - Lab 2 (Feb. 23): Linear regression I
   
 - Week 4 (Feb. 27 - Mar. 03).
