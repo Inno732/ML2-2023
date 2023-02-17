@@ -51,7 +51,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 10 (Apr. 20):
 
 - Week 11 (Apr. 24-28).
-  - Lecture 13 (Apr. 24): **Student seminar**
+  - Lecture 13 (Apr. 24): **Student seminar (doulbe descent?)**
   - Lab 11 (Apr. 27):
   - Lecture 14 (Apr. 28): **Student seminar**
 
