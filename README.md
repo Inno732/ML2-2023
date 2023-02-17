@@ -37,11 +37,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 6 (Mar. 20-24).
   - Lecture 10 (Mar. 20): Neural networks II
-  - Lab 7 (Mar. 23):
+  - Lab 7 (Mar. 23): Neural network lab I
   - Lecture 11 (Mar. 24): Researcher seminar
 
 - Week 7 (Mar. 27-31).
-  - Lab 8 (Mar. 27):
+  - Lab 8 (Mar. 27): Neural network lab II
   - Lecture 12 (Mar. 30):  Researcher seminar
   - Lab 9 (Mar. 31):
   
