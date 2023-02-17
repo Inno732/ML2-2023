@@ -26,8 +26,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 3  (Mar. 2): Linear regression II
  
 - Week 5 (Mar. 6 - Mar. 10).
-  - Lecture 7 (Mar. 6): Optimization for machine learning II
-  - Lecture 8 (Mar. 8): Optimization for machine learning III
+  - Lecture 7 (Mar. 6): Optimization for machine learning II (first-order methods, accelerated methods, etc)
+  - Lecture 8 (Mar. 8): Optimization for machine learning III (stochastic gradient, etc)
   - Lab 4 (Mar. 10): Linear classification I
 
 - Week 6 (Mar. 13-17).
