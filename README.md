@@ -10,7 +10,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 1 (Feb. 6-10). 
   - Lecture 1 (Feb. 8): Linear models (the perceptron learning model)
-  - Lecture 2 (Feb. 10): Linear models (the perceptron learning model continued, linear regression, logistic regression)
+  - Lecture 2 (Feb. 10): Linear models (the perceptron learning model continued, linear regression)
 
 - Week 2 (Feb. 13-17). 
   - Lecture 3 (Feb. 15): Linear models (linear regression, logistic regression)
