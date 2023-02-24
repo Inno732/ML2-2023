@@ -26,9 +26,9 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc)
  
 - Week 5 (Mar. 6 - Mar. 10).
-  - Lab 4 (Mar. 10): Linear classification I
-  - Lecture 7 (Mar. 6): Optimization for machine learning II (first-order methods, accelerated methods, etc)
-  - Lab 5 (Mar. 16): Linear classification II
+  - Lab 4 (Mar. 6): Linear classification I
+  - Lecture 7 (Mar. 8): Optimization for machine learning II (first-order methods, accelerated methods, etc)
+  - Lab 5 (Mar. 10): Linear classification II
  
 
 - Week 6 (Mar. 13-17).
