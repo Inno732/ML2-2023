@@ -22,8 +22,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
    - Lab 2 (Feb. 23): Linear regression I [[lab (PDF)]](./labs/Linear_regression/Linear_regression.pdf)
   
 - Week 4 (Feb. 27 - Mar. 03).
-  - Lecture 6 (Feb. 27):  Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc)
-  - Lab 3  (Mar. 2): Linear regression II
+  - Lab 3 (Feb. 27):  Linear regression II 
+  - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc)
  
 - Week 5 (Mar. 6 - Mar. 10).
   - Lecture 7 (Mar. 6): Optimization for machine learning II (first-order methods, accelerated methods, etc)
