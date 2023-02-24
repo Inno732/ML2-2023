@@ -34,15 +34,15 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 6 (Mar. 13-17).
   - Lecture 9 (Mar. 13):  **Researcher seminar** (SVM? OC-SVM? Kernel learning?)
   - Lab 5 (Mar. 16): Linear classification III
-  - Lab 6 (Mar. 17): ?
+  - Lab 6 (Mar. 17): Neural networks I
 
 - Week 6 (Mar. 20-24).
-  - Lecture 10 (Mar. 20): Neural networks I
-  - Lab 7 (Mar. 23): Neural network lab I
-  - Lecture 11 (Mar. 24): Neural networks II
+  - Lecture 10 (Mar. 20): Neural network lab I
+  - Lab 7 (Mar. 23): Neural networks II
+  - Lecture 11 (Mar. 24): Neural network lab II
 
 - Week 7 (Mar. 27-31).
-  - Lab 8 (Mar. 27): Neural network lab II
+  - Lab 8 (Mar. 27): ?
   - Lecture 12 (Mar. 30):  **Researcher seminar**
   - Lab 9 (Mar. 31): Neural networks III
   
