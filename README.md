@@ -53,7 +53,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 11 (Apr. 24-28).
   - Lecture 13 (Apr. 24): **Student seminar**
-  - Lab 11 (Apr. 27):
+  - Lab 11 (Apr. 27): Neural network lab III
   - Lecture 14 (Apr. 28): cancel?
 
 - Week 12 (May 1-5).
