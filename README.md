@@ -27,12 +27,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
  
 - Week 5 (Mar. 6 - Mar. 10).
   - Lab 4 (Mar. 7): Linear classification I
-  - Lecture 7 (Mar. 8): Optimization for machine learning II (first-order methods, accelerated methods, etc)
+  - Lecture 7 (Mar. 8): Optimization for machine learning II (gradient descent method, newton method, proximal point method)
   - Lab 5 (Mar. 10): Linear classification II
  
 
 - Week 6 (Mar. 13-17).
-  - Lecture 9 (Mar. 13):  Optimization for machine learning II
+  - Lecture 9 (Mar. 13):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
   - Lab 5 (Mar. 16): Linear classification III
   - Lab 6 (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
 
