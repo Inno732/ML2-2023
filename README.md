@@ -49,7 +49,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 **Spring Break**
 
 - Week 10 (Apr. 17-21).
-  - Lab 10 (Apr. 20):
+  - Lab 10 (Apr. 20): Neural network lab III
 
 - Week 11 (Apr. 24-28).
   - Lecture 13 (Apr. 24): **Student seminar (doulbe descent?)**
