@@ -9,7 +9,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Content
 
 - Week 1 (Feb. 6-10). 
-  - Lecture 1 (Feb. 8): Linear models (the perceptron learning model)
+  - Lecture 1 (Feb. 8): Introduction [[(PDF)]](./slides/lecture1-intro.pdf) + Linear models (the perceptron learning model)
   - Lecture 2 (Feb. 10): Linear models (the perceptron learning model continued, linear regression)
 
 - Week 2 (Feb. 13-17). 
@@ -23,7 +23,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   
 - Week 4 (Feb. 27 - Mar. 03).
   - Lab 3 (Feb. 27):  Linear regression II [(Solution)](./labs/Linear_regression/Linear_regression_solution.pdf)
-  - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc) 
+  - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc) [[(PDF)]](./slides/lecture6_optimization1.pdf)
  
 - Week 5 (Mar. 6 - Mar. 10).
   - Lab 4 (Mar. 7): Linear classification I
