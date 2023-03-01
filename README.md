@@ -34,33 +34,33 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 6 (Mar. 13-17).
   - Lecture 9 (Mar. 13):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
   - Lab 6 (Mar. 16): Linear classification III
-  - Lab 7/seminar (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
+  - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
 
 - Week 6 (Mar. 20-24).
-  - Lecture 10 (Mar. 20):Neural Networks
-  - Lab 8 (Mar. 23): Deep Probabilistic Models
-  - Lecture 11 (Mar. 24):  **Researcher seminar 2** (Stable diffusions?)
+  - Lecture 11 (Mar. 20):Neural Networks
+  - Lecture 12 (Mar. 23): Deep Probabilistic Models
+  - Lecture 13 (Mar. 24):  **Researcher seminar 2** (Stable diffusions?)
 
 - Week 7 (Mar. 27-31).
-  - Lab 9 (Mar. 27): Neural network lab I
-  - Lecture 12 (Mar. 30):  **Researcher seminar 3** (?)
-  - Lab 10 (Mar. 31): Neural network lab II
+  - Lab 7 (Mar. 27):  Linear classification IV
+  - Lecture 14 (Mar. 30):  **Researcher seminar 3** (?)
+  - Lab 8 (Mar. 31): Neural network lab I
   
 **Spring Break**
 
 - Week 10 (Apr. 17-21).
-  - Lab 11/seminar (Apr. 20): **Student seminar (double descent?)**
+  - Lecture 15 / Seminar (Apr. 20): **Student seminar (double descent?)**
 
 - Week 11 (Apr. 24-28).
-  - Lecture 13 (Apr. 24): **Student seminar**
-  - Lab 12 (Apr. 27): Neural network lab III
-  - Lecture 14 (Apr. 28): cancel?
+  - Lab 9 (Apr. 24): **Student seminar**
+  - Lab 10 (Apr. 27): Neural network lab II
+  - Lab 11 14 (Apr. 28): Neural network lab III
 
 - Week 12 (May 1-5).
-  - Lab 13 (May 4):
-  - Lecture 14 (May 5): **Student seminar**
+  - Lab 12 (May 4): Neural network lab IV
+  - Lab 13 (May 5): **Student seminar**
 
 - Week 13 (May 8-12).
-  - Lecture 15 (May 8): **Student seminar**
-  - Lab 14 (May 11):
+  - Lab 14 (May 8): **Student seminar**
+  - Lab 15 (May 11): Neural network V
  
