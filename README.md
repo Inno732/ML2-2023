@@ -32,24 +32,24 @@ This is a repository to organize the teaching material for [Machine Learning II]
  
 
 - Week 6 (Mar. 13-17).
-  - Lecture 9 (Mar. 13):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
-  - Lab 6 (Mar. 16): Linear classification III
+  - Lecture 8 (Mar. 13):  Neural Networks
+  - Lecture 9 (Mar. 16): Deep Probabilistic Models
   - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
 
 - Week 6 (Mar. 20-24).
-  - Lecture 11 (Mar. 20):Neural Networks
-  - Lecture 12 (Mar. 23): Deep Probabilistic Models
-  - Lecture 13 (Mar. 24):  **Researcher seminar 2** (Stable diffusions?)
+  - Lecture 11 (Mar. 20): **Researcher seminar 2** (Stable diffusions?)
+  - Lecture 12 (Mar. 23):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
+  - Lab 6 (Mar. 24): Linear classification III
 
 - Week 7 (Mar. 27-31).
   - Lab 7 (Mar. 27):  Linear classification IV
-  - Lecture 14 (Mar. 30):  **Researcher seminar 3** (?)
+  - Lecture 13 (Mar. 30):  **Researcher seminar 3** (?)
   - Lab 8 (Mar. 31): Neural network lab I
   
 **Spring Break**
 
 - Week 10 (Apr. 17-21).
-  - Lecture 15 / Seminar (Apr. 20): **Student seminar (double descent?)**
+  - Lecture 14 / Seminar (Apr. 20): **Student seminar (double descent?)**
 
 - Week 11 (Apr. 24-28).
   - Lab 9 (Apr. 24): **Student seminar**
