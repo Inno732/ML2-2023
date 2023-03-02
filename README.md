@@ -15,10 +15,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 2 (Feb. 13-17). 
   - Lecture 3 (Feb. 15): Linear models (linear regression, logistic regression)
   - Lab 1 (Feb. 16): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf) [(Solution)](./labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-2023/blob/main/labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb))
-  - Lecture 4 (Feb. 17): No lecture. Read Chapters 1 and 2 in [Patterns, predictions and actions (PPA): a story about machine learning](https://mlstory.org/)
+  - Lecture 4 (Feb. 17): No lecture. Read Chapters 1 (Introduction) and 2 (Fundamentals of prediction) in [Patterns, predictions and actions (PPA): a story about machine learning](https://mlstory.org/)
 
 - Week 3 (Feb. 20-24).
-   - Lecture 5 (Feb. 22): Discussion on PPA book (Chapters 1 and 2)
+   - Lecture 5 (Feb. 22): Discussion on hapters 1 and 2 of PPA book. Optimal prediction function for general binary classification loss (Lemma 1), Neyman-Pearson Lemma (Lemma 2), Properties of ROC curves (Propositions 1, 2 and 3).
    - Lab 2 (Feb. 23): Linear regression I [[lab (PDF)]](./labs/Linear_regression/Linear_regression.pdf)
   
 - Week 4 (Feb. 27 - Mar. 03).
