@@ -23,11 +23,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
   
 - Week 4 (Feb. 27 - Mar. 03).
   - Lab 3 (Feb. 27):  Linear regression II [(Solution)](./labs/Linear_regression/Linear_regression_solution.pdf)
-  - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc) [[Slides (PDF)]](./slides/lecture-optimization1.pdf)
+  - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc) [[Slides (PDF)]](./slides/lecture_optimization1.pdf)
  
 - Week 5 (Mar. 6 - Mar. 10).
   - Lab 4 (Mar. 7): Linear classification I
-  - Lecture 7 (Mar. 8): Optimization for machine learning II (gradient descent method, newton method, proximal point method) [[Slides (PDF)]](./slides/lecture-optimization2.pdf)
+  - Lecture 7 (Mar. 8): Optimization for machine learning II (gradient descent method, newton method, proximal point method) [[Slides (PDF)]](./slides/lecture_optimization2.pdf)
   - Lab 5 (Mar. 10): Linear classification II
  
 
@@ -38,7 +38,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 6 (Mar. 20-24).
   - Lecture 11 (Mar. 20): **Researcher seminar 2** (Stable diffusions?)
-  - Lecture 12 (Mar. 23):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method) [[Slides (PDF)]](./slides/lecture-optimization3.pdf)
+  - Lecture 12 (Mar. 23):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method) [[Slides (PDF)]](./slides/lecture_optimization3.pdf)
   - Lab 6 (Mar. 24): Linear classification III
 
 - Week 7 (Mar. 27-31).
