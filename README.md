@@ -26,7 +26,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 6  (Mar. 2): Optimization for machine learning I (linear algebra, mathematical analysis, introduction to convex optimization, optimality conditions, duality, etc) [[Slides (PDF)]](./slides/lecture_optimization1.pdf)
  
 - Week 5 (Mar. 6 - Mar. 10).
-  - Lab 4 (Mar. 7): Linear classification I
+  - Lab 4 (Mar. 7): Linear classification I [[lab (PDF)]](./labs/Linear_classification/Linear_classification_and_optimisation.pdf)
   - Lecture 7 (Mar. 8): Optimization for machine learning II (gradient descent method, newton method, proximal point method) [[Slides (PDF)]](./slides/lecture_optimization2.pdf)
   - Lab 5 (Mar. 10): Linear classification II
  
