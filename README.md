@@ -15,10 +15,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 2 (Feb. 13-17). 
   - Lecture 3 (Feb. 15): Linear models (linear regression, logistic regression)
   - Lab 1 (Feb. 16): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model/The_perceptron_learning_model.pdf) [(Solution)](./labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb) ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML2-2023/blob/main/labs/The_perceptron_learning_model/The_perceptron_learning_model_solution.ipynb))
-  - Lecture 4 (Feb. 17): No lecture. Read Chapters 1 and 2 in [Patterns, predictions and actions (PPA): a story about machine learning](https://mlstory.org/)
+  - Lecture 4 (Feb. 17): No lecture. Read Chapters 1 (Introduction) and 2 (Fundamentals of prediction) in [Patterns, predictions and actions (PPA): a story about machine learning](https://mlstory.org/)
 
 - Week 3 (Feb. 20-24).
-   - Lecture 5 (Feb. 22): Discussion on PPA book (Chapters 1 and 2)
+   - Lecture 5 (Feb. 22): Discussion on hapters 1 and 2 of PPA book. Optimal prediction function for general binary classification loss (Lemma 1), Neyman-Pearson Lemma (Lemma 2), Properties of ROC curves (Propositions 1, 2 and 3).
    - Lab 2 (Feb. 23): Linear regression I [[lab (PDF)]](./labs/Linear_regression/Linear_regression.pdf)
   
 - Week 4 (Feb. 27 - Mar. 03).
@@ -32,24 +32,24 @@ This is a repository to organize the teaching material for [Machine Learning II]
  
 
 - Week 6 (Mar. 13-17).
-  - Lecture 9 (Mar. 13):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
-  - Lab 6 (Mar. 16): Linear classification III
+  - Lecture 8 (Mar. 13):  Neural Networks
+  - Lecture 9 (Mar. 16): Deep Probabilistic Models
   - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
 
 - Week 6 (Mar. 20-24).
-  - Lecture 11 (Mar. 20):Neural Networks
-  - Lecture 12 (Mar. 23): Deep Probabilistic Models
-  - Lecture 13 (Mar. 24):  **Researcher seminar 2** (Stable diffusions?)
+  - Lecture 11 (Mar. 20): **Researcher seminar 2** (Stable diffusions?)
+  - Lecture 12 (Mar. 23):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method)
+  - Lab 6 (Mar. 24): Linear classification III
 
 - Week 7 (Mar. 27-31).
   - Lab 7 (Mar. 27):  Linear classification IV
-  - Lecture 14 (Mar. 30):  **Researcher seminar 3** (?)
+  - Lecture 13 (Mar. 30):  **Researcher seminar 3** (?)
   - Lab 8 (Mar. 31): Neural network lab I
   
 **Spring Break**
 
 - Week 10 (Apr. 17-21).
-  - Lecture 15 / Seminar (Apr. 20): **Student seminar (double descent?)**
+  - Lecture 14 / Seminar (Apr. 20): **Student seminar (double descent?)**
 
 - Week 11 (Apr. 24-28).
   - Lab 9 (Apr. 24): **Student seminar**
