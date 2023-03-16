@@ -48,6 +48,10 @@ This is a repository to organize the teaching material for [Machine Learning II]
   
 **Spring Break**
 
+- Pytorch lab
+- lecture on neural network
+- Generalization of Neural Networks
+
 - Week 10 (Apr. 17-21).
   - Lecture 14 / Seminar (Apr. 20): **Student seminar (double descent?)** Neural network lab I 
 
