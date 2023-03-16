@@ -44,12 +44,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 7 (Mar. 27-31).
   - Lab 7 (Mar. 27):  Linear classification IV
   - Lecture 13 (Mar. 30):  **Researcher seminar 3** (?)
-  - Lab 8 (Mar. 31): Neural network lab I
+  - Lab 8 (Mar. 31): Linear classification V
   
 **Spring Break**
 
 - Week 10 (Apr. 17-21).
-  - Lecture 14 / Seminar (Apr. 20): **Student seminar (double descent?)**
+  - Lecture 14 / Seminar (Apr. 20): **Student seminar (double descent?)** Neural network lab I 
 
 - Week 11 (Apr. 24-28).
   - Lab 9 (Apr. 24): **Student seminar**
