@@ -37,9 +37,9 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1** (SVM? OC-SVM? Kernel learning?) 
 
 - Week 6 (Mar. 20-24).
-  - Lecture 11 (Mar. 20): **Researcher seminar 2** (Stable diffusions?)
-  - Lecture 12 (Mar. 23):  Optimization for machine learning III (accelerated proximal point method, stochastic gradient method) [[Slides (PDF)]](./slides/lecture_optimization3.pdf)
-  - Lab 6 (Mar. 24): Linear classification III
+  - Lecture 11 (Mar. 20): Optimization for machine learning III (accelerated proximal point method, stochastic gradient method) [[Slides (PDF)]](./slides/lecture_optimization3.pdf)
+  - Lecture 12 (Mar. 23): Linear classification III
+  - Lab 6 (Mar. 24):  **Researcher seminar 2** (Stable diffusions?)
 
 - Week 7 (Mar. 27-31).
   - Lab 7 (Mar. 27):  Linear classification IV
