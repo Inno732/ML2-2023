@@ -35,7 +35,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 8 (Mar. 13):  Neural Networks
   - Lecture 9 (Mar. 16): Deep Probabilistic Models
   - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1**
-     - Schölkopf, Bernhard, et al. "Estimating the support of a high-dimensional distribution." Neural computation 13.7 (2001): 1443-1471.
+     - Schölkopf, Bernhard, et al. "Estimating the support of a high-dimensional distribution." Neural computation 13.7 (2001): 1443-1471.  [[Slides (PDF)]](./slides/seminar_OCSVM.pdf)
 
 - Week 6 (Mar. 20-24).
   - Lecture 11 (Mar. 20): Optimization for machine learning III (accelerated proximal point method, stochastic gradient method) [[Slides (PDF)]](./slides/lecture_optimization3.pdf)
