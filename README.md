@@ -33,7 +33,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 6 (Mar. 13-17).
   - Lecture 8 (Mar. 13):  Neural Networks
-  - Lecture 9 (Mar. 16): Deep Probabilistic Models
+  - Lecture 9 (Mar. 16): Deep Probabilistic Models [[Slides (PDF)]](./slides/lecture_deep_generative_models.pdf)
   - Lecture 10 / Seminar (Mar. 17): **Researcher seminar 1**
      - Schölkopf, Bernhard, et al. "Estimating the support of a high-dimensional distribution." Neural computation 13.7 (2001): 1443-1471.  [[Slides (PDF)]](./slides/seminar_OCSVM.pdf)
 
